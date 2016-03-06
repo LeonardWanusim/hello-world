@@ -1,2 +1,5 @@
 # hello-world
-My First Git Hub Project
+Hi Humans;
+
+This is my first git hub practise.
+
